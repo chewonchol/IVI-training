@@ -9,6 +9,7 @@ public class Calculation1 {
 		add(list1);
 	}
 	
+	//拡張for文のテスト
 	static void add(ArrayList<Integer> intArrayList){
 		int sum = 0;
 		for(int num : intArrayList){
