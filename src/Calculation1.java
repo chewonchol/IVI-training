@@ -1,15 +1,11 @@
-
-
 import java.util.ArrayList;
 
 public class Calculation1 {
-
+	
 	public static void main(String[] args) {
-		
 		ArrayList<Integer> list1 = new ArrayList<Integer>();
 		list1.add(30);
 		list1.add(50);
-		
 		add(list1);
 	}
 	
@@ -20,5 +16,4 @@ public class Calculation1 {
 		}
 		System.out.println(sum);
 	}
-
 }
